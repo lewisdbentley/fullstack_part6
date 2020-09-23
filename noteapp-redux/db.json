@@ -1,0 +1,29 @@
+{
+  "notes": [
+    {
+      "content": "reducer defines how redux store works",
+      "important": true,
+      "id": 1
+    },
+    {
+      "content": "state of store can contain any data",
+      "important": false,
+      "id": 2
+    },
+    {
+      "content": "HIROSHI YOSHIMURA",
+      "important": false,
+      "id": 3
+    },
+    {
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque porta, risus hendrerit posuere dictum, turpis ligula vulputate sapien, at fermentum justo libero sed neque. Fusce suscipit lobortis turpis, in feugiat enim laoreet ut. Pellentesque sed arcu magna. Maecenas sed pellentesque orci. Maecenas in egestas dui. Donec neque elit, pretium nec erat faucibus, egestas facilisis orci. Duis quis turpis sit amet tortor finibus facilisis. Fusce sed quam non arcu venenatis efficitur eget ac nulla. Suspendisse elementum sed mauris nec pulvinar.  Integer porta cursus semper. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nunc eleifend gravida dapibus. Praesent gravida varius auctor. Nulla nunc orci, accumsan facilisis tristique sollicitudin, posuere ut lorem. Curabitur dapibus laoreet risus eget convallis. Ut consequat sit amet magna at condimentum.  Aliquam rhoncus ornare urna. Mauris vitae dictum est, in faucibus lacus. Proin elementum aliquet magna sit amet rhoncus.",
+      "important": false,
+      "id": 4
+    },
+    {
+      "content": "HIROSHI YOSHIMURA",
+      "important": false,
+      "id": 5
+    }
+  ]
+}
